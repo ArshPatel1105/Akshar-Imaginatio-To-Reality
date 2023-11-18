@@ -686,7 +686,7 @@ section{
         height: 100%;
         padding: 0;
         margin: 0;
-        overflow-x:hidden ;
+        
     }
     html{
         font-size: 55%;
@@ -708,7 +708,7 @@ section{
         height: 100%;
         padding: 0;
         margin: 0;
-        overflow-x:hidden ;
+       
     }
     #menu-btn{
         display: initial;
@@ -756,7 +756,7 @@ section{
         height: 100%;
         padding: 0;
         margin: 0;
-        overflow-x:hidden ;
+        
     }
     html{
         font-size: 50%;
