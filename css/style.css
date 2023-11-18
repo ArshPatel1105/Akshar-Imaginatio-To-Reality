@@ -181,14 +181,14 @@ section{
     font-size: 4.5rem;
     color:whitesmoke;
     line-height: 1.5;
-    transform: scale(0.94);
-    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+/*     transform: scale(0.94);
+    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1); */
     
    
    
 
 }
-@keyframes scale {
+/* @keyframes scale {
     100% {
       transform: scale(1);
     }
@@ -232,7 +232,7 @@ section{
       opacity: 1;
       filter: blur(0);
     }
-  }  
+  }   */
 
 
 
