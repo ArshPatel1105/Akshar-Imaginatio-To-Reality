@@ -130,6 +130,10 @@ section{
     background: var(--main-color);
 }
 .home{
+    top:0;
+    left:0;
+    right:0;
+    
     margin: 0;
     padding: 0;
     background-image:url(../images/back.jpg);
