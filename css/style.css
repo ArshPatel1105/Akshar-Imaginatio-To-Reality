@@ -142,7 +142,7 @@ section{
     -webkit-filter: blur(2px);   */
     height: 100vh;
     display: flex;
-    z-index: 1000;
+    z-index: 1;
   
 }
 /* .home .back{
